@@ -53,6 +53,7 @@ This repository serves as a personal learning playground for exploring Angular (
 <pre><code> $ ng serve </code></pre>
 - Open your browser and navigate to http://localhost:4200/
 
+
 ### Spring Boot
 #### Run
 - run *src/backend/src/main/java/org/stand/springbootecommerce/SpringBootEcommerceApplication.java*
