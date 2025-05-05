@@ -45,7 +45,7 @@ This repository serves as a personal learning playground for exploring Angular (
 - Angular CLI
 #### Installation
 - Clone the repository
-<pre><code> $ git clone https://github.com/KStar1014/mern-e-commerce  </code></pre>
+<pre><code> $ git clone https://github.com/KStar1014/fullstack-e-commerce  </code></pre>
 - Install the project dependencies
 <pre><code> $ npm install </code></pre>
 #### Run
